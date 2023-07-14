@@ -46,3 +46,5 @@ async function getComponentsWithoutLead() {
 }
 
 getComponentsWithoutLead();
+
+module.exports = { getComponentsWithoutLead };
