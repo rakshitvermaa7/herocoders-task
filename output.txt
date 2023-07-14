@@ -1,0 +1,5 @@
+Component: Importers (Issue Count: 3)
+Component: Synchronization (Issue Count: 3)
+Component: Frontend (Issue Count: 17)
+Component: Backend (Issue Count: 13)
+Component: Templates (Issue Count: 11)
